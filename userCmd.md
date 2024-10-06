@@ -40,4 +40,7 @@
 ```
 
 #これは例 0.1USDT から USDC swap する例です。
-実際は encode.py の code で変更可能
+
+### encode.py の code で swap のステータス変更可能
+
+## test_swap.py 自動 swap のテスト可能
